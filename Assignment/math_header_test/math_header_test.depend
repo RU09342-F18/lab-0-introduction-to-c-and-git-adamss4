@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1536537235 source:c:\users\skylar adams\desktop\github\lab-0-introduction-to-c-and-git-adamss4\assignment\math_header_test\main.c
+	<stdio.h>
+	"math.h"
+
+1536530422 c:\users\skylar adams\desktop\github\lab-0-introduction-to-c-and-git-adamss4\assignment\math_header_test\math.h
+
+1536537106 source:c:\users\skylar adams\desktop\github\lab-0-introduction-to-c-and-git-adamss4\assignment\math_header_test\math.c
+	"math.h"
+
