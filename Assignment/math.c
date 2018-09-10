@@ -1,7 +1,7 @@
 #include "math.h" // Include the header
 
 
-int math(int num1, int num2, char Operator)
+int math(int num1, int num2, char Operator) // define the function
 {
     if (Operator == '+'){
         return num1 + num2; // returns num1 plus num2
