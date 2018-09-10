@@ -3,6 +3,7 @@
 ## Inputs and Outputs
 This math.c file will only accept integers for the values of num1 and num2 due to them
 having the preset variable type of int. This math.c will also only output integer values.
+The maximum value for input and display is +2147483647, and the minimum value is -2147483648.
 
 ## Valid Operators
 The valid operators for use with this math.c are add ('+'), subtract('-'), multiply('*'), divide('/'), 
